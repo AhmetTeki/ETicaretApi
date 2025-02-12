@@ -1,1 +1,1 @@
-C#, .Net Core, Asp.NetCore, MsSql, Entity Framework, Azure kullanarak tasarladım. Ürün resimleri hariç herşey Mssql'de depolandı. Ürün resimleri Azure'da depolandı. Client(Fronted kısmı için Repoma bakabilirsiniz)
+C#, .Net Core(6), Asp.NetCore, MsSql, Entity Framework, Azure kullanarak tasarladım. Ürün resimleri hariç herşey Mssql'de depolandı. Ürün resimleri Azure'da depolandı. Client(Fronted kısmı için Repoma bakabilirsiniz)
