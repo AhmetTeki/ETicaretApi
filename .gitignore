@@ -1,0 +1,73 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vssscc
+*.vspscc
+
+# User-specific files
+.idea/
+.vscode/
+.vs/
+.vs2019/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ev/
+[Dd]ebugBuild/
+[Dd]ebugger/
+bin/
+obj/
+
+# User-specific files
+*.log
+*.sql
+*.bak
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# User-specific files
+.vscode/
+.idea/
+
+# ASP.NET Core Debugging (Windows)
+.vs2019/
+
+# VS for Mac
+.vscode/
+
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+appsettings.json

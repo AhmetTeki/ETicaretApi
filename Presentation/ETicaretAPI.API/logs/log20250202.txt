@@ -1,0 +1,25 @@
+2025-02-02 14:34:58.853 +03:00 [INF] User profile is available. Using 'C:\Users\Ahmet Tekin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-02 14:34:59.058 +03:00 [INF] Now listening on: https://localhost:7030
+2025-02-02 14:34:59.058 +03:00 [INF] Now listening on: http://localhost:5059
+2025-02-02 14:34:59.062 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 14:34:59.063 +03:00 [INF] Hosting environment: Development
+2025-02-02 14:34:59.063 +03:00 [INF] Content root path: C:\Users\Ahmet Tekin\OneDrive\Masaüstü\ETicaret\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-02-02 14:34:59.422 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/swagger/index.html - -
+2025-02-02 14:34:59.649 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/swagger/index.html - - - 200 - text/html;charset=utf-8 228.8541ms
+2025-02-02 14:34:59.660 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/_framework/aspnetcore-browser-refresh.js - -
+2025-02-02 14:34:59.660 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/_vs/browserLink - -
+2025-02-02 14:34:59.669 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.7080ms
+2025-02-02 14:34:59.679 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 18.1270ms
+2025-02-02 14:34:59.849 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/swagger/v1/swagger.json - -
+2025-02-02 14:34:59.961 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 112.0347ms
+2025-02-02 14:36:42.967 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/swagger/index.html - -
+2025-02-02 14:36:42.984 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/swagger/index.html - - - 200 - text/html;charset=utf-8 17.8745ms
+2025-02-02 14:36:42.993 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/_vs/browserLink - -
+2025-02-02 14:36:42.993 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/_framework/aspnetcore-browser-refresh.js - -
+2025-02-02 14:36:42.996 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 2.1911ms
+2025-02-02 14:36:43.004 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.4186ms
+2025-02-02 14:36:43.108 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/swagger/v1/swagger.json - -
+2025-02-02 14:36:43.112 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.0356ms
+2025-02-02 14:36:43.119 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7030/swagger/favicon-32x32.png - -
+2025-02-02 14:36:43.137 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-02-02 14:36:43.139 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7030/swagger/favicon-32x32.png - - - 200 628 image/png 20.3495ms
